@@ -1,0 +1,9 @@
+pillow
+wand
+textract
+pytesseract
+pyocr
+Tesseract
+numpy
+opencv-python
+imutils
