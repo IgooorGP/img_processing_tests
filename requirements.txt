@@ -7,3 +7,5 @@ Tesseract
 numpy
 opencv-python
 imutils
+matplotlib
+argparse
